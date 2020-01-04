@@ -1,0 +1,1 @@
+// Feynman ( finding the pattern, square numbers )

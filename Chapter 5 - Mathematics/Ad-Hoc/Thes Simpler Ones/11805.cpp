@@ -1,0 +1,1 @@
+// Bafana bafana ( very simple O(1) formula exists )

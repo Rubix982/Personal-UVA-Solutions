@@ -1,0 +1,1 @@
+// Back to High School,super simple, outputs 2 * v * t
