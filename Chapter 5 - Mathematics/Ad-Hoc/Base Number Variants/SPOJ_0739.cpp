@@ -1,0 +1,1 @@
+// The Moronic Cowmpouter ( Find the representation in base-2 )

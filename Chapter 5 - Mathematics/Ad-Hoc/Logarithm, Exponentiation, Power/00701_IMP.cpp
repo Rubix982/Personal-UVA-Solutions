@@ -1,0 +1,1 @@
+// Archaelogist's Dilemma, use log to count != of digits

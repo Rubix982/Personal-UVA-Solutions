@@ -1,0 +1,1 @@
+// Black And White Painting, there is O(1) formula

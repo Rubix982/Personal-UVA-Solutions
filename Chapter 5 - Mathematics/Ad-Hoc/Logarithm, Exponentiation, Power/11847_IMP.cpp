@@ -1,0 +1,1 @@
+// Cut The Silver Box, O(1) math formula exists [log 2(n)]

@@ -1,0 +1,1 @@
+// Dermuba Triangle, the number of items in row forms arithmetic progression series, use hypot

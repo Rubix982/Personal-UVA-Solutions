@@ -1,0 +1,1 @@
+// Chessboard, trival for N = 1, and N = 2; drive the formula first for N > 2; hint, use diagonal as much as possible
