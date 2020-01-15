@@ -1,1 +1,0 @@
-// Perfection, do trial division
