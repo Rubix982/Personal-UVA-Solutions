@@ -9,6 +9,26 @@ int main(void)
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
 
+    int t;
+    cin >> t;
+
+    while (t--)
+    {
+
+        int n;
+        cin >> n;
+
+        cout << n << "\n";
+        if ( n == 1 ) cout << "0.000\n\n";
+        else if ( n == 2 ) cout << "4.000\n\n";
+        else 
+        {
+
+                // Can't figure it out. :/
+
+        }
+
+    }
 
     return 0;
 }
