@@ -1,4 +1,5 @@
 // This is a template file. Modify as needed
+#pragma GCC optimize('0fast')
 
 #if defined(WIN32) || defined(_WIN32) || defined(__CYGWIN__) || defined(__MINGW32__) || defined(___WIN32__)
     #include "bits/stdc++.h"
